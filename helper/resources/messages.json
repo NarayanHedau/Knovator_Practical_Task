@@ -1,0 +1,15 @@
+{
+  "DEFAULT_INTERNAL_SERVER_ERROR": "Internal server error.",
+  "USER_ALREADY_EXIST": "User Already exist",
+  "USER_REGISTER_SUCCESSFULLY": "User registered successfully",
+  "EMAIL_OR_MOBILE_NUMBER_NOT_FOUND": "Email or Mobile number not found",
+  "USER_LOGIN_SUCCESSFULLY": "User has been logged in successfully",
+  "USER_FETCHED": "User fetched successfully",
+  "ADD_POST_SUCCESSFULLY": "Post has been added successfully",
+  "GET_POST_SUCCESSFULLY": "Post has been fetched successfully",
+  "POST_UPDATED_SUCCESSFULLY": "Post has been fetched successfully",
+  "POST_DELETED_SUCCESSFULLY": "Post has been deleted successfully",
+  "ACTIVE_AND_INACTIVE_COUNT": "Active and Inactive count generated"
+
+
+}

@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": 9143
+  },
+  "dbUrl": "mongodb://127.0.0.1:27017/knovatorDB",
+  "uploadUrl": "/uploads/",
+  "staticFilesUrl": "http://localhost:9143/",
+  "saltRounds" :10,
+  "secrete" : "secret"
+}
